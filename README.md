@@ -1,4 +1,4 @@
-# Simple JQuery Examples
+# Simple Javascript with JQuery Examples
 
 Examples of basic Javascript using the [JQuery](https://jquery.com/) framework to add interaction to web pages.
 
